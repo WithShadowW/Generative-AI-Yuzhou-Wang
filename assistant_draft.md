@@ -12,7 +12,7 @@ I am deeply passionate about data-driven AI product management and the applicati
 
 ---
 
-## Notes for Assistant
+### Notes for Assistant
 
 **Original Prompt:**
 "Please create content for a file named assistant_draft.md in this project folder. The file should include: 1) A short title on the first line. 2) One short paragraph introducing me as a graduate student named Yuzhou Wang, currently studying Information Systems (AI track) at Johns Hopkins University, with prior undergraduate studies at UC Irvine. 3) One short paragraph describing an industry, function, or problem area I care about. Focus on data-driven AI product management and generative AI applications for business analytics. 4) One short bullet list (3 bullet points) describing 3 ways generative AI might be useful in that area. Make the bullets concrete and specific, not too generic. At the bottom of assistant_draft.md, add a clearly separated note section that includes: - The exact prompt I used (copy the full text of this request). - One or two sentences on what the assistant did well. - One or two sentences on anything I needed to clarify or adjust. Write everything in clear, simple English, formatted as Markdown. Make sure you actually write the content into assistant_draft.md in this repository instead of just showing it to me."
